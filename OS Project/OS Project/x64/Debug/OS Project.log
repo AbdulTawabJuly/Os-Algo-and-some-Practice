@@ -1,0 +1,7 @@
+﻿  RMS.cpp
+  Source1.cpp
+C:\Users\Abdul Tawab\source\repos\OS Project\OS Project\Source1.cpp(140,12): warning C4101: 'period': unreferenced local variable
+C:\Users\Abdul Tawab\source\repos\OS Project\OS Project\Source1.cpp(140,6): warning C4101: 'exec': unreferenced local variable
+  Generating Code...
+C:\Users\Abdul Tawab\source\repos\OS Project\OS Project\Source1.cpp(109): warning C4715: 'Processes::Run': not all control paths return a value
+  OS Project.vcxproj -> C:\Users\Abdul Tawab\source\repos\OS Project\x64\Debug\OS Project.exe
