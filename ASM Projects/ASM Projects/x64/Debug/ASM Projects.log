@@ -1,0 +1,7 @@
+﻿  Assembling 1.asm...
+1.asm(19): error A2008: syntax error : .
+1.asm(37): error A2008: syntax error : .
+1.asm(43): error A2008: syntax error : far
+1.asm(362): error A2024: invalid operand size for instruction
+1.asm(668): fatal error A1010: unmatched block nesting : main
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\1.obj" /W3 /errorReport:prompt  /Ta1.asm" exited with code 1.
